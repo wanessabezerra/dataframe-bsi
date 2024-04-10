@@ -1,1 +1,10 @@
+import pandas as pd
 
+caminho_arquivo = 'dados_bsi.csv'
+
+# Carregue o arquivo CSV em um DataFrame
+dados = pd.read_csv(caminho_arquivo)
+
+# Agora você pode realizar operações no DataFrame 'dados'
+# Por exemplo, exibir as primeiras linhas do DataFrame
+print(dados.head())
