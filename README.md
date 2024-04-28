@@ -1,12 +1,12 @@
 # DataFrame BSI
 
-Trabalho de Conclusão de Curso em Bacharelado em Sistemas de Informação
-
 ## Descrição do projeto
+
+Elaboração do DataFrame para o Curso de Bacharelado em Sistemas de Informação (BSI) da Universidade Federal do Rio Grande do Norte (UFRN), como parte do Trabalho de Conclusão de Curso (TCC).
 
 ## Dados Abertos UFRN
 
-Na base de dados escolhida foram selecionados os dados referente ao período de 2009.1 a 2022.2
+Na base de dados escolhida foram selecionados os dados referente ao período de 2009.1 a 2022.2.
 
 **Tipos de dados e quantidades de arquivos:**
 
@@ -16,15 +16,15 @@ Na base de dados escolhida foram selecionados os dados referente ao período de 
 
 ### Tutoriais
 
-| Nome                                              | Descrição                                         | Link                                                                                                                                                      |
-| ------------------------------------------------- | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Pandas                                            | Ciência de dados antes da programação             | [Clique aqui ➡️](https://github.com/leobezerra/pandas-zero/tree/master/pt-br)                                                                              |
-| Pandas - Conhecendo o Pandas                      | Primeiros passos com Pandas para análise de dados | [Clique aqui ➡️](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/pt-br/notebooks/PassoPasso.ipynb)                             |
-| Pandas - Conhecendo o Pandas                      | Dataframes como bancos de dados                   | [Clique aqui ➡️](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/pt-br/notebooks/DataframeBD.ipynb)                            |
-| Pandas - Conhecendo o Pandas                      | Análise e apresentação de dados                   | [Clique aqui ➡️](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/pt-br/notebooks/Visualizacao.ipynb)                           |
-| Pandas - Conhecendo o Pandas                      | Extração, transformação e carga de dados (ETL)    | [Clique aqui ➡️](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/pt-br/notebooks/ETL.ipynb)                                    |
-| Pandas - Trabalhando com múltiplas bases de dados | Unindo informações de múltiplas bases             | [Clique aqui ➡️](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/pt-br/notebooks/UFRN-diversidade.ipynb#scrollTo=52SDZHnnmCWQ) |
-| Pandas - Trabalhando com múltiplas bases de dados | Cruzando informações de múltiplas bases           | [Clique aqui ➡️](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/pt-br/notebooks/UFRN-disciplinas.ipynb)                       |
-| Pandas - Explorando seus dados                    | Visualizando e identificando distribuições        | [Clique aqui ➡️](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/pt-br/notebooks/Distribuição_Dados.ipynb)                     |
-| Pandas - Explorando seus dados                    | Relações entre características                    | [Clique aqui ➡️](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/pt-br/notebooks/Relações.ipynb)                               |
-| Pandas - Explorando seus dados                    | Interagindo visualmente com dados                 | [Clique aqui ➡️](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/pt-br/notebooks/Visualização_interativa.ipynb)                |
+| Nome                                     | Descrição                                                                                                                                                                         |
+| ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pandas                                   | [Ciência de dados antes da programação](https://github.com/leobezerra/pandas-zero/tree/master/pt-br)                                                                              |
+| Conhecendo o Pandas                      | [Primeiros passos com Pandas para análise de dados](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/pt-br/notebooks/PassoPasso.ipynb)                 |
+| Conhecendo o Pandas                      | [Dataframes como bancos de dados](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/pt-br/notebooks/DataframeBD.ipynb)                                  |
+| Conhecendo o Pandas                      | [Análise e apresentação de dados](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/pt-br/notebooks/Visualizacao.ipynb)                                 |
+| Conhecendo o Pandas                      | [Extração, transformação e carga de dados (ETL)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/pt-br/notebooks/ETL.ipynb)                           |
+| Trabalhando com múltiplas bases de dados | [Unindo informações de múltiplas bases](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/pt-br/notebooks/UFRN-diversidade.ipynb#scrollTo=52SDZHnnmCWQ) |
+| Trabalhando com múltiplas bases de dados | [Cruzando informações de múltiplas bases](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/pt-br/notebooks/UFRN-disciplinas.ipynb)                     |
+| Explorando seus dados                    | [Visualizando e identificando distribuições](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/pt-br/notebooks/Distribuição_Dados.ipynb)                |
+| Explorando seus dados                    | [Relações entre características](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/pt-br/notebooks/Relações.ipynb)                                      |
+| Explorando seus dados                    | [Interagindo visualmente com dados](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/pt-br/notebooks/Visualização_interativa.ipynb)                    |
