@@ -10,6 +10,7 @@ Na base de dados escolhida foram selecionados os dados referente ao período de 
 
 **Tipos de dados e quantidades de arquivos:**
 
+* [DADOS COMPLEMENTARES DE DISCENTES (1)](https://dados.ufrn.br/dataset/dados-complementares-de-discentes)
 * [COMPONENTES CURRICULARES (1)](https://dados.ufrn.br/dataset/componentes-curriculares)
 * [MATRÍCULAS EM COMPONENTES (30)](https://dados.ufrn.br/dataset/matriculas-componentes)
 * [TURMAS (30)](https://dados.ufrn.br/dataset/turmas)
