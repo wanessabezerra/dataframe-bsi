@@ -1,4 +1,10 @@
-# DataFrame BSI
+<h1 align="center">DataFrame BSI</h1>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
 
 ## Descrição do projeto
 
@@ -14,8 +20,13 @@ Na base de dados escolhida foram selecionados os dados referente ao período de 
 * [COMPONENTES CURRICULARES (1)](https://dados.ufrn.br/dataset/componentes-curriculares)
 * [MATRÍCULAS EM COMPONENTES (30)](https://dados.ufrn.br/dataset/matriculas-componentes)
 * [TURMAS (30)](https://dados.ufrn.br/dataset/turmas)
+  
+## Arquivos Importantes
 
-### Tutoriais
+* [dataframe-bsi](dataframe-bsi/dataframe-bsi.ipynb)
+* [dados-extraidos](dataframe-bsi/dados-extraidos.ipynb)
+
+## Tutoriais
 
 | Nome                                     | Descrição                                                                                                                                                                         |
 | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
