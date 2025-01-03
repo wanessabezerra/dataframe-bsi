@@ -161,6 +161,7 @@ cython_debug/
 
 #Arquivos Temporários 
 *~lock*
+.~lock.*
 
 # Arquivos acima de 50MB
 componentes-curriculares-presenciais.csv
