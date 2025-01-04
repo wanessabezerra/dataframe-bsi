@@ -25,6 +25,8 @@ Na base de dados escolhida foram selecionados os dados referente ao período de 
 
 * [dataframe-bsi](dataframe-bsi/dataframe-bsi.ipynb)
 * [dados-extraidos](dataframe-bsi/dados-extraidos.ipynb)
+* [classificacao](dataframe-bsi/classificacao.ipynb)
+* [pca](dataframe-bsi/pca.ipynb)
 
 ## Tutoriais
 
